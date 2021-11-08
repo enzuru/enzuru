@@ -1,8 +1,6 @@
 # Come join the GNU revolution and use a Lisp-based operating system a decade ahead of anything else!
 
-I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a Lisp-oriented workstation, tied together by the [Guix System](https://guix.gnu.org) GNU/Linux distribution.
-
-The goal is to create a Lisp-oriented workstation: the backend (operating system) is defined in Scheme Lisp and the frontend (desktop environment) and its tools are defined in Emacs Lisp. I write most of my personal programs in Common Lisp.
+I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create the ultimate Lisp-based workstation, tied together by the [Guix System](https://guix.gnu.org) GNU/Linux distribution. The backend (operating system) is defined in Scheme Lisp and the frontend (desktop environment) and its tools are defined in Emacs Lisp. I write most of my personal programs in Common Lisp.
 
 Are you interested in having a Lisp-based workstation? I keep my configurations public as a learning tool!
 
