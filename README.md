@@ -4,6 +4,6 @@ I am currently working on the [GNU operating system](https://www.gnu.org/) in or
 
 Are you interested in having a Lisp-based workstation? I keep my configurations public as a learning tool!
 
-- Install the Guix System GNU/Linux distribution
+- Install the [Guix System GNU/Linux distribution](https://guix.gnu.org)
 - Modify my [Scheme code](https://github.com/enzuru/guix-profiles) and run them to setup your own user
 - Log into the user and you will be booted into the [exwm window manager](https://github.com/ch11ng/exwm)
