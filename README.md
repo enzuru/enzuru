@@ -1,4 +1,4 @@
-# Come join the GNU revolution and use a Lisp-based operating system a decade ahead of anything else
+# Come join the GNU revolution and use a Lisp-based operating system a decade ahead of anything else!
 
 I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a Lisp-oriented workstation, tied together by the [Guix System](https://guix.gnu.org) GNU/Linux distribution.
 
