@@ -1,4 +1,4 @@
-# Building a next generation Lisp operating system
+# Building a futuristic Lisp operating system
 
 I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp-based workstation, tied together by the [Guix System](https://guix.gnu.org) GNU/Linux distribution. The backend (operating system) is mostly defined in Scheme Lisp and the frontend (desktop environment) and its tools are mostly defined in Emacs Lisp. For portability, I write most of my personal tools in Common Lisp.
 
