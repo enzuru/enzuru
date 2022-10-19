@@ -4,7 +4,7 @@
 
 Through my eponymous nonprofit [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp-based workstation, tied together by the [Guix System](https://guix.gnu.org) GNU/Linux distribution.
 
-My personal goal is to build an [introspective](https://www.gnu.org/software/guile/manual/html_node/Introspection.html), [transactionable](https://guix.gnu.org/en/blog/2018/multi-dimensional-transactions-and-rollbacks-oh-my/), and [hackable](https://www.gnu.org/philosophy/rms-hack.en.html) programming environment that is centered on [text-based user interfaces](https://en.wikipedia.org/wiki/Text-based_user_interface) instead of [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface).
+My personal goal is to build an [introspective](https://www.gnu.org/software/guile/manual/html_node/Introspection.html), [hackable](https://www.gnu.org/philosophy/rms-hack.en.html), and [transactionable](https://guix.gnu.org/en/blog/2018/multi-dimensional-transactions-and-rollbacks-oh-my/) programming environment that is centered on [text-based user interfaces](https://en.wikipedia.org/wiki/Text-based_user_interface) instead of [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface).
 
 The backend (operating system) is mostly defined in Scheme Lisp and the frontend (desktop environment) and its tools are mostly defined in Emacs Lisp. For portability, I write most of my personal tools in Common Lisp.
 
