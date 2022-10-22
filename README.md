@@ -15,5 +15,5 @@ Follow me on GitHub to keep track of my contributions to various Lisp userspace 
 Are you interested in having an advanced Lisp-based workstation that you can hack live to suit your needs? Getting started is easy:
 
 - Install the [Guix System GNU/Linux distribution](https://guix.gnu.org)
-- Modify my [Scheme code](https://github.com/enzuru/guix-profiles) and run them to setup your own user (you will need an Emacs directory with `exwm` installed and enabled; you can use mine to test drive)
+- Modify my [Scheme code](https://github.com/enzuru/guix-profiles) and run them to setup your own user (you will need an Emacs directory with `exwm` and `geiser` installed and enabled; you can use mine to test drive)
 - Log into the user and you will be booted into a fullscreen Emacs from which you can hack your operating system live with `(geiser)` and your window manager with `(eval-buffer)`, as well as launch other programs both within Lisp userspace and outside of it
