@@ -4,6 +4,8 @@
 
 Through my eponymous nonprofit project [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp-based workstation, built upon the [Guix System](https://guix.gnu.org) GNU/Linux distribution and [exwm window manager](https://github.com/ch11ng/exwm).
 
+If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](https://en.wikipedia.org/wiki/Everything_is_a_file), then [the logical conclusion](https://github.com/NetBSD/src/blob/trunk/doc/roadmaps/desktop#L259) is that the ideal POSIX desktop environment should be a file editor, and the only editor that can function as such is [GNU Emacs](https://www.gnu.org/software/emacs/).
+
 My personal goal is to build an [introspective](https://www.gnu.org/software/guile/manual/html_node/Introspection.html), [hackable](https://www.gnu.org/philosophy/rms-hack.en.html), and [transactionable](https://guix.gnu.org/en/blog/2018/multi-dimensional-transactions-and-rollbacks-oh-my/) programming environment that is centered on [text-based user interfaces](https://en.wikipedia.org/wiki/Text-based_user_interface) instead of [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface), and that can be used [without a mouse](https://www.nongnu.org/ratpoison/inspiration.html).
 
 This project exists to provide advanced hackers with a programming environment more reflective of their ethos and virtuosity. Most operating systems and desktop environments aim to fulfill the needs of the casual non-technical user; this project only aims to provide tools and documentation for advanced free software users who are willing to become fluent in Lisp.
