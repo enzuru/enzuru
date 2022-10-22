@@ -14,7 +14,7 @@ This computing style exists to provide advanced hackers with a programming envir
 
 The backend (operating system) is mostly defined in Scheme Lisp and the frontend (desktop environment) and its tools are mostly coded in Emacs Lisp. Both can be hacked live in a REPL, making it a pure expression of the free software ethic, and an incredibly versatile tool for a skilled programmer. I continue to progress on publishing documentation and tools for this rich computing style, a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
 
-Follow me on GitHub to keep track of my contributions to various Lisp userspace codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project.
+Follow me on GitHub to keep track of my contributions to various Lisp user space codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project.
 
 Are you interested in having an advanced Lisp-based workstation that you can hack live to suit your needs? Getting started is easy:
 
