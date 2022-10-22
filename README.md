@@ -18,6 +18,6 @@ Are you interested in having an advanced Lisp-based workstation that you can hac
 
 - Install the [Guix System GNU/Linux distribution](https://guix.gnu.org)
 - Install Emacs with `guix install emacs`
-- Install the [Geiser](https://www.nongnu.org/geiser/) and [exwm window manager](https://github.com/ch11ng/exwm) for Emacs
-- [Bootstrap exwm](https://github.com/ch11ng/exwm/wiki#bootstrap) on Emacs boot
+- Install [Geiser](https://www.nongnu.org/geiser/) and [exwm](https://github.com/ch11ng/exwm) for Emacs (`M-x package-install geiser`, `M-x package-install exwm`)
+- [Bootstrap exwm](https://github.com/ch11ng/exwm/wiki#bootstrap) on Emacs instantiation
 - Setup your [.xsession](https://github.com/ch11ng/exwm/wiki#bootstrap) file so that the login manager can boot into Emacs
