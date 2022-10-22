@@ -2,7 +2,7 @@
 
 ![A modern Lisp machine for the ultimate programming experience](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
-Through my eponymous nonprofit project [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp-based workstation, built upon the [Guix](https://guix.gnu.org) GNU/Linux distribution and [exwm window manager](https://github.com/ch11ng/exwm). Pairing these two together creates a programming environment and computing style that can be referred to as **Lisp user space**.
+Through my eponymous nonprofit project [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp-based workstation, built upon the [Guix GNU/Linux distribution](https://guix.gnu.org) and [exwm window manager](https://github.com/ch11ng/exwm). Pairing these two together creates a programming environment and computing style that can be referred to as **Lisp user space**.
 
 If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](https://en.wikipedia.org/wiki/Everything_is_a_file), then [the logical conclusion](https://github.com/NetBSD/src/blob/trunk/doc/roadmaps/desktop#L259) is that the ideal POSIX desktop environment should be a file editor, and the only editor that can function as such is [GNU Emacs](https://www.gnu.org/software/emacs/).
 
