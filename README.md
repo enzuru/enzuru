@@ -16,7 +16,7 @@ Lisp user space is centered on [text-based user interfaces](https://en.wikipedia
 
 Emacs has text-based keyboard-driven applications for all the major desktop environment functions, such as [window management](https://github.com/ch11ng/exwm), [file management](https://github.com/sunrise-commander/sunrise-commander), [web browsing](https://github.com/emacsmirror/elpher), [mail](https://notmuchmail.org/notmuch-emacs/), [streaming music](https://github.com/agrif/pianobar.el), [chatting](https://www.gnu.org/software/emacs/manual/html_mono/erc.html), [shell management](https://www.gnu.org/software/emacs/manual/html_mono/eshell.html), [version control](https://magit.vc/), and [life organization](https://orgmode.org/). All these tools can be hacked live with as you use them.
 
-## The perfect complement to POSIX
+## Perfect complement to POSIX
 
 If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](https://en.wikipedia.org/wiki/Everything_is_a_file), then [the logical conclusion](https://github.com/NetBSD/src/blob/trunk/doc/roadmaps/desktop#L259) is that the ideal POSIX "desktop environment" should be a file editor, and the only editor that can function as such is [GNU Emacs](https://www.gnu.org/software/emacs/).
 
@@ -30,7 +30,7 @@ I continue to progress on publishing documentation and tools for this rich compu
 
 Follow me on GitHub to keep track of my contributions to various Lisp user space codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project.
 
-## You can get Lisp user space running tonight
+## Get Lisp user space running tonight
 
 Are you interested in having an advanced Lisp-based workstation that you can hack live to suit your needs? Getting started is easy:
 
