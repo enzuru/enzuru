@@ -26,7 +26,7 @@ The operating system is mostly defined [declaratively](https://en.wikipedia.org/
 
 ### Follow me!
 
-I continue to progress on publishing documentation and tools for this rich computing style,
+I continue to progress on publishing documentation and tools for this rich computing style.
 
 Follow me on GitHub to keep track of my contributions to various Lisp user space codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project.
 
