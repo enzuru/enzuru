@@ -1,5 +1,7 @@
 # Building a futuristic Lisp workstation
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzuru)](https://github.com/anuraghazra/github-readme-stats)
+
 ![A modern Lisp machine for the ultimate programming experience](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
 Through my eponymous nonprofit project [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation, built by pairing the [GNU/Linux Guix distribution](https://guix.gnu.org) with the [exwm window manager](https://github.com/ch11ng/exwm).
