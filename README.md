@@ -2,7 +2,7 @@
 
 ![A modern Lisp machine for the ultimate programming experience](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
-Through my eponymous nonprofit project [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation, built by pairing the [GNU/Linux Guix distribution](https://guix.gnu.org) with the [exwm window manager](https://github.com/ch11ng/exwm).
+Through my eponymous charity [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation, built by pairing the [GNU/Linux Guix distribution](https://guix.gnu.org) with the [exwm window manager](https://github.com/ch11ng/exwm).
 
 Pairing these two together creates a computing style and programming environment that can be referred to as **Lisp user space**. This is a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
 
