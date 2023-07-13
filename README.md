@@ -8,13 +8,13 @@ Pairing these two together creates a computing style and programming environment
 
 Any of the system's application code can be made available to you at any time. You can be aware of all the code that is running on your machine, which puts GNU among the most secure operating systems on Earth.
 
-### Hack your operating system live
-
-Lisp user space provides an [introspective](https://www.gnu.org/software/guile/manual/html_node/Introspection.html), [hackable](https://www.gnu.org/philosophy/rms-hack.en.html), and [transactionable](https://guix.gnu.org/en/blog/2018/multi-dimensional-transactions-and-rollbacks-oh-my/) programming environment that can be modified live in a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop).
-
 ### Trustless full-source bootstrap
 
 Secure yourself against malevolent state actors and never trust someone else's unverified binaries again, as you can [build from the source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/).
+
+### Hack your operating system live
+
+Lisp user space provides an [introspective](https://www.gnu.org/software/guile/manual/html_node/Introspection.html), [hackable](https://www.gnu.org/philosophy/rms-hack.en.html), and [transactionable](https://guix.gnu.org/en/blog/2018/multi-dimensional-transactions-and-rollbacks-oh-my/) programming environment that can be modified live in a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop).
 
 ### Text-based and keyboard-driven
 
