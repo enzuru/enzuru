@@ -41,6 +41,7 @@ Follow me on GitHub to keep track of my contributions to various Lisp user space
 Are you interested in having an advanced Lisp-based workstation that you can hack live to suit your needs? Getting started is easy:
 
 - Install the [Guix GNU/Linux distribution](https://guix.gnu.org)
+- Only install [nonguix](https://gitlab.com/nonguix/nonguix) if you truly require additional hardware support
 - Install Emacs (`guix install emacs`)
 - Install [Geiser](https://www.nongnu.org/geiser/) and [exwm](https://github.com/ch11ng/exwm) for Emacs (`M-x package-install geiser-guile`, `M-x package-install exwm`)
 - [Bootstrap exwm](https://github.com/ch11ng/exwm/wiki#bootstrap) on Emacs instantiation
