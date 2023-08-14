@@ -24,7 +24,7 @@ Emacs has text-based keyboard-driven applications for all the major desktop envi
  
 ### Perfect complement to POSIX
 
-If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](https://en.wikipedia.org/wiki/Everything_is_a_file), then [the logical conclusion](https://github.com/NetBSD/src/blob/trunk/doc/roadmaps/desktop#L259) is that the ideal POSIX "desktop environment" should be a file editor, and the only editor that can function as such is [GNU Emacs](https://www.gnu.org/software/emacs/).
+If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](https://en.wikipedia.org/wiki/Everything_is_a_file), then [the logical conclusion](https://github.com/NetBSD/src/blob/cfd6b2f509474ce4eee8adcb3259acbdd754f5e1/doc/roadmaps/desktop#L259) is that the ideal POSIX "desktop environment" should be a file editor, and the only editor that can function as such is [GNU Emacs](https://www.gnu.org/software/emacs/).
 
 ### Respects your freedom
 
