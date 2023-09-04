@@ -2,9 +2,9 @@
 
 ![A modern Lisp machine for the ultimate programming experience](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
-Through my eponymous charity [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a secure [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation, built by pairing the [GNU/Linux Guix distribution](https://guix.gnu.org) with the [exwm window manager](https://github.com/ch11ng/exwm).
+Through my eponymous charity [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a secure [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation.
 
-Pairing these two together creates a computing style and programming environment that can be referred to as **Lisp user space**. This is a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
+By combining the [GNU/Linux Guix distribution](https://guix.gnu.org), [GNU Emacs](https://www.gnu.org/software/emacs/), and a Lisp window manager ([exwm](https://github.com/ch11ng/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm)) one obtains a computing style and programming environment that can be referred to as **Lisp user space**. This is a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
 
 Any of the system's application code can be made available to you at any time. You can be aware of all the code that is running on your machine, which puts GNU among the most secure operating systems on Earth.
 
@@ -21,10 +21,10 @@ Lisp user space provides an [introspective](https://www.gnu.org/software/guile/m
 Lisp user space is centered on [text-based user interfaces](https://en.wikipedia.org/wiki/Text-based_user_interface) instead of [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface), and can be used [without a mouse](https://www.nongnu.org/ratpoison/inspiration.html), which makes it easier to use for both power users as well as people living with disabilities.
 
 Emacs has text-based keyboard-driven applications for all the major desktop environment functions, such as [window management](https://github.com/ch11ng/exwm), [file management](https://github.com/suntsov/efar), [web browsing](https://github.com/emacsmirror/elpher), [mail](https://notmuchmail.org/notmuch-emacs/), [streaming music](https://github.com/agrif/pianobar.el), [chatting](https://www.gnu.org/software/emacs/manual/html_mono/erc.html), [shell management](https://www.gnu.org/software/emacs/manual/html_mono/eshell.html), [version control](https://magit.vc/), and [life organization](https://orgmode.org/). All these tools can be modified and adjusted live as you use them.
- 
+
 ### Perfect complement to POSIX
 
-If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](https://en.wikipedia.org/wiki/Everything_is_a_file), then [the logical conclusion](https://github.com/NetBSD/src/blob/cfd6b2f509474ce4eee8adcb3259acbdd754f5e1/doc/roadmaps/desktop#L259) is that the ideal POSIX "desktop environment" should be a file editor, and the only editor that can function as such is [GNU Emacs](https://www.gnu.org/software/emacs/).
+If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](https://en.wikipedia.org/wiki/Everything_is_a_file), then [the logical conclusion](https://github.com/NetBSD/src/blob/cfd6b2f509474ce4eee8adcb3259acbdd754f5e1/doc/roadmaps/desktop#L259) is that the ideal POSIX "desktop environment" should be a file editor, and the only editor that can function as such is GNU Emacs.
 
 ### Respects your freedom
 
@@ -43,6 +43,7 @@ Are you interested in having an advanced Lisp-based workstation that you can hac
 - Install the [Guix GNU/Linux distribution](https://guix.gnu.org)
 - Only install [nonguix](https://gitlab.com/nonguix/nonguix) if you truly require additional hardware support
 - Install Emacs (`guix install emacs`)
-- Install [Geiser](https://www.nongnu.org/geiser/) and [exwm](https://github.com/ch11ng/exwm) for Emacs (`M-x package-install geiser-guile`, `M-x package-install exwm`)
-- [Bootstrap exwm](https://github.com/ch11ng/exwm/wiki#bootstrap) on Emacs instantiation
+- Install [Geiser](https://www.nongnu.org/geiser/) (`M-x package-install geiser-guile`)
+_ Install either exwm (`M-x package-install exwm`) or StumpWM (`guix install stumpwm`)
+- Bootstrap [exwm](https://github.com/ch11ng/exwm/wiki#bootstrap) or [StumpWM](https://github.com/stumpwm/stumpwm/wiki/StartUp)
 - Setup your [.xsession](https://github.com/ch11ng/exwm/wiki/Configuration-Example#configuration-of-x-init-script) file so that the login manager can boot into Emacs
