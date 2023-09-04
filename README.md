@@ -4,7 +4,7 @@
 
 Through my eponymous charity [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a secure [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation.
 
-By combining the [GNU/Linux Guix distribution](https://guix.gnu.org), [GNU Emacs](https://www.gnu.org/software/emacs/), and a Lisp window manager ([exwm](https://github.com/ch11ng/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm)) one obtains a computing style and programming environment that can be referred to as **Lisp user space**. This is a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
+By combining the [GNU/Linux Guix distribution](https://guix.gnu.org), [GNU Emacs](https://www.gnu.org/software/emacs/), and a Lisp window manager ([exwm](https://github.com/ch11ng/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm)), one obtains a computing style and programming environment that can be referred to as **Lisp user space**. This is a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
 
 Any of the system's application code can be made available to you at any time. You can be aware of all the code that is running on your machine, which puts GNU among the most secure operating systems on Earth.
 
