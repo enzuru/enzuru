@@ -24,7 +24,7 @@ Lisp user space provides an [introspective](https://www.gnu.org/software/guile/m
 
 ### Text-based and keyboard-driven
 
-Lisp user space is centered on [text-based user interfaces](https://en.wikipedia.org/wiki/Text-based_user_interface) instead of [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface), and can be used [without a mouse](https://www.nongnu.org/ratpoison/inspiration.html), which makes it easier to use for both power users as well as people living with disabilities.
+Lisp user space is centered on [text-based user interfaces](https://en.wikipedia.org/wiki/Text-based_user_interface) instead of [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface), and can be used [without a mouse](https://www.nongnu.org/ratpoison/inspiration.html), which makes it easier to use for people living with disabilities as well as power users.
 
 Emacs has text-based keyboard-driven applications for all the major desktop environment functions, such as [window management](https://github.com/ch11ng/exwm), [file management](https://github.com/suntsov/efar), [web browsing](https://github.com/emacsmirror/elpher), [mail](https://notmuchmail.org/notmuch-emacs/), [streaming music](https://github.com/agrif/pianobar.el), [chatting](https://www.gnu.org/software/emacs/manual/html_mono/erc.html), [shell management](https://www.gnu.org/software/emacs/manual/html_mono/eshell.html), [version control](https://magit.vc/), and [life organization](https://orgmode.org/). All these tools can be modified and adjusted live as you use them.
 
