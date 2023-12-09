@@ -40,7 +40,7 @@ The operating system is mostly defined [declaratively](https://en.wikipedia.org/
 
 I continue to progress on publishing tools and documentation for this rich computing style.
 
-Follow me on GitHub to keep track of my contributions to various Lisp user space codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project. And [follow me on Medium](https://enzuru.medium.com/) in order to follow my latest announcements and tutorials.
+[Follow me on GitHub](https://github.com/enzuru) to keep track of my contributions to various Lisp user space codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project. And [follow me on Medium](https://enzuru.medium.com/) in order to follow my latest announcements and tutorials.
 
 ### Get Lisp user space running tonight
 
