@@ -8,7 +8,7 @@ By combining:
 
 - [GNU/Linux Guix distribution](https://guix.gnu.org)
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
-- A Lisp window manager ([exwm](https://github.com/ch11ng/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm))
+- A Lisp window manager (like [exwm](https://github.com/ch11ng/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm))
 
 ...one obtains a computing style and programming environment that can be referred to as **Lisp user space**. This is a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
 
