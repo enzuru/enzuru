@@ -49,7 +49,7 @@ Are you interested in having an advanced Lisp-based workstation that you can hac
 - Install the [Guix GNU/Linux distribution](https://guix.gnu.org)
 - Only install [nonguix](https://gitlab.com/nonguix/nonguix) if you truly require additional hardware support
 - Install Emacs (`guix install emacs`)
-- Install [Geiser](https://www.nongnu.org/geiser/) (`M-x package-install geiser-guile`)
+- Install [Geiser](https://www.nongnu.org/geiser/) (`M-x package-install geiser-guile`) and [SLY](https://github.com/joaotavora/sly) (`M-x package-install sly`)
 - Install a Lisp window manager like [exwm](https://github.com/ch11ng/exwm) (`M-x package-install exwm`) or [StumpWM](https://github.com/stumpwm/stumpwm) (`guix install stumpwm`)
 - Bootstrap your window manager ([exwm](https://github.com/ch11ng/exwm/wiki#bootstrap), [StumpWM](https://github.com/stumpwm/stumpwm/wiki/StartUp))
 - Boot into your window manager ([exwm](https://github.com/ch11ng/exwm/wiki/Configuration-Example#configuration-of-x-init-script), [StumpWM](https://stumpwm.github.io/git/stumpwm-git_1.html))
