@@ -1,4 +1,4 @@
-# Writing a futuristic Lisp workstation
+# Building a futuristic Lisp workstation
 
 ![A modern Lisp machine for the ultimate programming experience](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
