@@ -16,7 +16,7 @@ Any of the system's application code can be made available to you at any time. Y
 
 ### High-performance parallel computing
 
-By combining GNU Guix's [high-performance computing emphasis](https://hpc.guix.info/) with [advanced Clojure parallel computing libraries](https://dragan.rocks/software/), one ends up with a powerful workstation for expressing complex workloads with elegant expressions.
+By combining GNU Guix's [high-performance computing emphasis](https://hpc.guix.info/) with [advanced Clojure parallel computing libraries](https://dragan.rocks/software/), one ends up with a powerful workstation for expressing complex workloads in elegant forms.
 
 ### Trustless full-source bootstrap
 
