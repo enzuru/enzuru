@@ -14,6 +14,10 @@ By combining:
 
 Any of the system's application code can be made available to you at any time. You can be aware of all the code that is running on your machine, which puts GNU among the most secure operating systems on Earth.
 
+### High-performance parallel computing
+
+By combining GNU Guix's [high-performance computing emphasis](https://hpc.guix.info/) with [advanced Clojure parallel computing libraries](https://dragan.rocks/software/), one ends up with a powerful workstation for expressing complex workloads with elegant expressions.
+
 ### Trustless full-source bootstrap
 
 Secure yourself against malevolent state actors and never trust someone else's unverified binaries again, as you can [build from the source all the way down](https://guix.gnu.org/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/).
