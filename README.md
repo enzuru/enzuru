@@ -8,7 +8,7 @@ By combining:
 
 - [GNU/Linux Guix distribution](https://guix.gnu.org)
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
-- A Lisp window manager (like [exwm](https://github.com/ch11ng/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm))
+- A Lisp window manager (like [exwm](https://github.com/emacs-exwm/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm))
 
 ...one obtains a computing style and programming environment that can be referred to as **Lisp user space**. This is a modern iteration of the [Lisp machines](https://en.wikipedia.org/wiki/Lisp_machine) of yore.
 
@@ -54,6 +54,6 @@ Are you interested in having an advanced Lisp-based workstation that you can hac
 - Only install [nonguix](https://gitlab.com/nonguix/nonguix) if you truly require additional hardware support
 - Install Emacs (`guix install emacs`)
 - Install [Geiser](https://www.nongnu.org/geiser/) (`M-x package-install geiser-guile`) and [SLY](https://github.com/joaotavora/sly) (`M-x package-install sly`)
-- Install a Lisp window manager like [exwm](https://github.com/ch11ng/exwm) (`M-x package-install exwm`) or [StumpWM](https://github.com/stumpwm/stumpwm) (`guix install stumpwm`)
+- Install a Lisp window manager like [exwm](https://github.com/emacs-exwm/exwm) (`M-x package-install exwm`) or [StumpWM](https://github.com/stumpwm/stumpwm) (`guix install stumpwm`)
 - Bootstrap your window manager ([exwm](https://github.com/ch11ng/exwm/wiki#bootstrap), [StumpWM](https://github.com/stumpwm/stumpwm/wiki/StartUp))
 - Boot into your window manager ([exwm](https://github.com/ch11ng/exwm/wiki/Configuration-Example#configuration-of-x-init-script), [StumpWM](https://stumpwm.github.io/git/stumpwm-git_1.html))
