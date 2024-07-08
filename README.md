@@ -2,7 +2,7 @@
 
 ![A modern Lisp machine for the ultimate programming experience](screenshot.png "Screenshot of lisp hacking in exwm running on Guix System")
 
-Through my eponymous charity [enzu.ru](https://enzu.ru), I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a secure [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation.
+I am currently working on the [GNU operating system](https://www.gnu.org/) in order to create a secure [libre](https://www.gnu.org/philosophy/free-sw.html) Lisp workstation.
 
 By combining:
 
