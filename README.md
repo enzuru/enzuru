@@ -9,7 +9,7 @@ Some projects that I contribute to (or plan to):
 - [The Linux kernel](https://kernel.org)
 - [GNU/Linux Guix distribution](https://guix.gnu.org)
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
-- Lisp window managers (like [exwm](https://github.com/emacs-exwm/exwm) or [StumpWM](https://github.com/stumpwm/stumpwm))
+- [StumpWM](https://github.com/stumpwm/stumpwm)
 
 Most of my [user space tools are written in Emacs Lisp](https://github.com/enzuru/.emacs.d), with [my window management handled by Common Lisp](https://github.com/enzuru/home), and [my system configuration declaratively written in Guile](https://github.com/enzuru/profiles).
 
@@ -41,15 +41,15 @@ If in [POSIX](https://en.wikipedia.org/wiki/POSIX) everything is [truly a file](
 
 The operating system is mostly defined [declaratively](https://en.wikipedia.org/wiki/Declarative_programming) in Scheme Lisp and the applications are mostly coded [imperatively](https://en.wikipedia.org/wiki/Imperative_programming) in Emacs Lisp. Both can be inspected and hacked live in a REPL, making it a pure expression of the libre software ethic, and an incredibly versatile tool for a skilled programmer.
 
-### Follow me!
+## Follow me!
 
 I continue to progress on publishing tools and documentation for this rich computing style.
 
 [Follow me on GitHub](https://github.com/enzuru) to keep track of my contributions to various Lisp user space codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project. And [follow me on Medium](https://enzuru.medium.com/) in order to follow my latest announcements and tutorials.
 
-### Get Lisp user space running tonight
+## Using Lisp user space
 
-Are you interested in having an advanced Lisp-based workstation that you can hack live to suit your needs? Getting started is easy:
+It's remarkably easy to get a Lisp user space setup on top of Linux:
 
 - Install the [Guix GNU/Linux distribution](https://guix.gnu.org)
 - Only install [nonguix](https://gitlab.com/nonguix/nonguix) if you truly require additional hardware support
