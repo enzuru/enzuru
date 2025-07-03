@@ -6,7 +6,6 @@ I am currently working on the [GNU operating system](https://www.gnu.org/) in or
 
 Some projects that I contribute to (or plan to):
 
-- [The Linux kernel](https://kernel.org)
 - [GNU/Linux Guix distribution](https://guix.gnu.org)
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 - [StumpWM](https://github.com/stumpwm/stumpwm)
