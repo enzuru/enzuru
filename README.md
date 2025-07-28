@@ -12,7 +12,7 @@ Some projects that I contribute to (or plan to):
 
 Using [org-roam-ui](https://github.com/org-roam/org-roam-ui), you can [visually navigate](https://enzuru.github.io/lisp-user-space/) how these projects work together to build a Lisp workstation.
 
-Most of my [user space tools are written in Emacs Lisp](https://github.com/enzuru/.emacs.d), with [my window management handled by Common Lisp](https://github.com/enzuru/home), and [my system configuration declaratively written in Guile](https://github.com/enzuru/profiles).
+Most of my [user space tools are written in Emacs Lisp](https://github.com/enzuru/.emacs.d), with [my window management handled by Common Lisp](https://github.com/enzuru/.stumpwm.d), and [my system configuration declaratively written in Guile](https://github.com/enzuru/profiles).
 
 ## Features
 
