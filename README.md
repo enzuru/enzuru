@@ -48,7 +48,7 @@ I continue to progress on publishing tools and documentation for this rich compu
 
 [Follow me on GitHub](https://github.com/enzuru) to keep track of my contributions to various Lisp user space codebases! Development on the GNU operating system itself is limited to the official mailing lists for each project. And [follow me on Medium](https://enzuru.medium.com/) in order to follow my latest announcements and tutorials.
 
-## Using Lisp user space
+## Setting up a Lisp user space
 
 It's remarkably easy to get a Lisp user space setup on top of Linux:
 
