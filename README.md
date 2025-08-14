@@ -20,6 +20,6 @@ I also supported GNU by [writing educational content](https://enzuru.medium.com/
 
 ## The GNOME Project: 2025–Present
 
-From 2025 onwards, I have moved my efforts from the GNU Project to the [GNOME Project](https://gnome.org) and its ecosystem, preferring to write my contributions in the [Vala programming language](https://vala.dev/). I did this because I decided contributing to the GNOME Project was the best way to help the greatest amount of people, given the large non-technical user base of t GNOME desktop, in contrast to the esoteric Lisp cult following on GNU.
+From 2025 onwards, I have moved my efforts from the GNU Project to the [GNOME Project](https://gnome.org) and its ecosystem, preferring to write my contributions in the [Vala programming language](https://vala.dev/). I did this because I decided contributing to the GNOME Project was the best way to help the greatest amount of people, given the large non-technical user base of the GNOME desktop, in contrast to the esoteric Lisp cult following on GNU.
 
 I continue to prefer Lisp for writing non-graphical applications, and continue to use Emacs as my primary editor and development environment. I use GitHub as the primary forge for my Lisp projects, and the [GNOME GitLab](https://gitlab.gnome.org/enzuru) as the primary forge for my contributions to GNOME and its ecosystem.
