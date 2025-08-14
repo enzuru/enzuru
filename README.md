@@ -8,7 +8,7 @@ Currently on GitHub, I maintain a few interesting repos:
 
 ## The GNU Project: 2021–2025
 
-From 2021–2025, I primarily contributed to the Lisp ecosystem of the [GNU operating system](https://gnu.org). I fixed bugs in [GNU Emacs](https://www.gnu.org/s/emacs/), and wrote Lisp packages including:
+From 2019–2025, I primarily contributed to the Lisp ecosystem of the [GNU operating system](https://gnu.org). I [fixed bugs](https://github.com/emacs-mirror/emacs/commits?author=enzuru) and [wrote tests](https://github.com/emacs-mirror/emacs/commit/103ae72ee9f197943265b76590cbad1d6e08a9b5) for [GNU Emacs](https://www.gnu.org/s/emacs/) and its package ecosystem, and wrote my own Lisp packages including but not limited to:
 
 - [company-spell](https://github.com/enzuru/company-spell): A minimalist hackable framework for spellchecking
 - [completing-read-sly](https://github.com/enzuru/completing-read-sly): Search symbols defined in a Common Lisp image
