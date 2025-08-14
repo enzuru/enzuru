@@ -1,6 +1,6 @@
 # enzuru
 
-Currently on GitHub, I maintain a few interesting repos:
+Currently on GitHub I maintain a few interesting repos:
 
 - A fork of [Lispy](https://github.com/enzuru/lispy) that I keep updated until the original author returns
 - My [.emacs.d](https://github.com/enzuru/.emacs.d), a maximalist Emacs config tracking the latest trends
