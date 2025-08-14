@@ -6,7 +6,7 @@ Currently on GitHub, I maintain a few interesting repos:
 - My [.emacs.d](https://github.com/enzuru/.emacs.d), a maximalist Emacs config tracking the latest trends
 - [native-comp-elisp-benchmarks](https://github.com/enzuru/native-comp-elisp-benchmarks) where people can submit Emacs benchmarks
 
-## The GNU Project: 2021–2025
+## The GNU Project: 2019–2025
 
 From 2019–2025, I primarily contributed to the Lisp ecosystem of the [GNU operating system](https://gnu.org). I [fixed bugs](https://github.com/emacs-mirror/emacs/commits?author=enzuru) and [wrote tests](https://github.com/emacs-mirror/emacs/commit/103ae72ee9f197943265b76590cbad1d6e08a9b5) for [GNU Emacs](https://www.gnu.org/s/emacs/) and its package ecosystem, and wrote my own Lisp packages including but not limited to:
 
