@@ -16,7 +16,7 @@ From 2019–2025, I primarily contributed to the Lisp ecosystem of the [GNU oper
 - [completing-read-geiser](https://github.com/enzuru/completing-read-geiser): Search symbols defined in a Scheme image
 - [stumpwm-pianobar](https://github.com/stumpwm/stumpwm-contrib/tree/master/modeline/pianobar): A StumpWM package for displaying a Pianobar song in your modeline
 
-I documented how to use the Lisp programming environment on the GNU operating system with my [Lisp user space](https://github.com/enzuru/lisp-user-space) project.
+I also supported GNU by [writing educational content](https://enzuru.medium.com/), including how to use the Lisp programming environment on the GNU operating system with my [Lisp user space](https://github.com/enzuru/lisp-user-space) project.
 
 ## The GNOME Project: 2025–Present
 
