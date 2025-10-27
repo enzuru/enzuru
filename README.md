@@ -1,4 +1,4 @@
-# enzuru
+# enzu.ru
 
 Currently on GitHub I maintain a few interesting repos:
 
