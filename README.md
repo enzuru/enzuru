@@ -5,7 +5,7 @@ Currently on GitHub I maintain a few interesting repos:
 - A fork of [Lispy](https://github.com/enzuru/lispy) that I keep updated until the original author returns
 - My [.emacs.d](https://github.com/enzuru/.emacs.d), a maximalist Emacs config tracking the latest trends
 - [native-comp-elisp-benchmarks](https://github.com/enzuru/native-comp-elisp-benchmarks) where people can submit Emacs benchmarks
-* My public [notes](https://github.com/enzuru/notes) written in [org-mode](https://orgmode.org/) to help people learn note-taking
+- My public [notes](https://github.com/enzuru/notes) written in [org-mode](https://orgmode.org/) to help people learn note-taking
 
 ## The GNU Project: 2019–2025
 
