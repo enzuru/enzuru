@@ -23,6 +23,6 @@ I am the primary maintainer for a few GitHub repos:
 
 I produce learning materials to help people learn how to use the GNU/Linux programming environment:
 
-- [Medium](https://enzuru.medium.com/) documents my libre software work and produce tutorials
+- [Medium](https://enzuru.medium.com/) documents my libre software work and is where I publish tutorials
 - [YouTube](https://www.youtube.com/@lenzuru) has live streams where I write and submit patches for real libre projects
 - [Lisp user space](https://github.com/enzuru/lisp-user-space) visually displays how to setup the GNU OS as a Lisp programming environment
