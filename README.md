@@ -25,4 +25,4 @@ I produce learning materials to help people learn how to use the GNU/Linux progr
 
 - My [Medium](https://enzuru.medium.com/) blog documents my libre software work and is where I publish tutorials
 - My [YouTube](https://www.youtube.com/@lenzuru/streams) channel has live streams where I write and submit patches for real libre projects
-- [Lisp user space](https://enzuru.github.io/lisp-user-space/) visually displays how to setup the GNU OS as a Lisp programming environment
+- [Lisp user space](https://enzuru.github.io/lisp-user-space/) is an interative map of the Lisp programming environment on top of the GNU operating system
