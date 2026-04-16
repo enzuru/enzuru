@@ -4,10 +4,11 @@
 
 ## Projects
 
-I am a GNU/Linux hacker that contributes to an eclectic set of projects in the ecosystem, with particular focuses on:
+I am a GNU/Linux hacker that contributes primarily to the following ecosystems:
 
-- [The GNU Project](https://github.com/emacs-mirror/emacs/commits?author=enzuru)
-- [The GNOME Project](https://gitlab.gnome.org/enzuru)
+- [GNU](https://www.gnu.org/)
+- [GNOME](https://www.gnome.org/)
+- [Nix](https://nixos.org/)
 
 ## Maintenance
 
