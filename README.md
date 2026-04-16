@@ -4,7 +4,7 @@
 
 ## Projects
 
-I am a GNU/Linux hacker that contributes primarily to the following ecosystems:
+I am a GNU/Linux hacker that primarily contributes to the following ecosystems:
 
 - [GNU](https://www.gnu.org/)
 - [GNOME](https://www.gnome.org/)
