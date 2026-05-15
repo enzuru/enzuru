@@ -2,7 +2,7 @@
 
 ![Ahmed Khanzada](ahmed-pink.png)
 
-## Projects
+## Ecosystems
 
 I am a GNU/Linux hacker that primarily contributes to the following ecosystems:
 
