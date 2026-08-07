@@ -1,7 +1,5 @@
 # enzu.ru
 
-![Ahmed Khanzada](ahmed-pink.png)
-
 ## Ecosystems
 
 I am a GNU/Linux hacker that primarily contributes to the following ecosystems:
