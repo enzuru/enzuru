@@ -6,15 +6,8 @@ I am a GNU/Linux hacker that primarily contributes to the following ecosystems:
 
 - [GNU](https://www.gnu.org/)
 - [GNOME](https://www.gnome.org/)
+- [Haskell](https://www.haskell.org/)
 - [Nix](https://nixos.org/)
-
-## Videogames
-
-I enjoy working on open source ports of old videogames:
-
-- [A Link to the Past](https://github.com/snesrev/zelda3)
-- [Ocarina of Time](https://github.com/HarbourMasters/Shipwright)
-- [Majora's Mask](https://github.com/HarbourMasters/2ship2harkinian)
 
 ## Maintenance
 
