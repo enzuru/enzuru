@@ -1,28 +1,14 @@
 # enzuru
 
-## Ecosystems
+My name is Elias Khanzada and I develop free software applications with a distinct style that marries minimalism and functional programming. My programs are:
 
-I am a GNU/Linux hacker that primarily contributes to the following ecosystems:
+- Designed with [GNOME's](https://www.gnome.org/) understated [Adwaita design language](https://en.wikipedia.org/wiki/Adwaita_(design_language))
+- Extensible with [GNU's](https://www.gnu.org/) ascetic [Guile Scheme](https://www.gnu.org/software/guile/)
+- Written in [Haskell](https://www.haskell.org/) for clarity, correctness, and beauty
 
-- [GNU](https://www.gnu.org/)
-- [GNOME](https://www.gnome.org/)
-- [Haskell](https://www.haskell.org/)
-- [Nix](https://nixos.org/)
+I strive to develop applications that can be learned in moments but can grow with a user over a lifetime.
 
-## Maintenance
+My current oeuvre includes:
 
-I am the primary maintainer for several GitHub projects, including but not limited to:
-
-- A fork of [Lispy](https://github.com/enzuru/lispy) that I keep updated until the original author returns
-- A trilogy of completing-read packages for searching symbols defined in a Lisp image ([Common Lisp](https://github.com/enzuru/completing-read-sly), [Clojure](https://github.com/enzuru/completing-read-cider), [Scheme](https://github.com/enzuru/completing-read-geiser))
-- My [.emacs.d](https://github.com/enzuru/.emacs.d), a maximalist Emacs config tracking the latest trends
-- [native-comp-elisp-benchmarks](https://github.com/enzuru/native-comp-elisp-benchmarks) where people can submit Emacs benchmarks
-
-## Learning
-
-I produce learning materials to help people learn how to use the GNU/Linux programming environment:
-
-- A [Medium](https://enzuru.medium.com/) blog where I publish tutorials and document my libre software contributions
-- A [YouTube](https://www.youtube.com/@lenzuru/streams) channel that has live streams where I write and submit patches for libre software
-- My public [notes](https://github.com/enzuru/notes) written in [org-mode](https://orgmode.org/) to help people learn note-taking and org-mode
-- [Lisp user space](https://enzuru.github.io/lisp-user-space/) is an interative map of the Lisp programming environment on top of the GNU operating system
+- [Cellar](https://github.com/enzuru/cellar), a spreadsheet application where every cell is a Scheme expression
+- [Stones](https://github.com/enzuru/stones), an application for playing the board game Go
